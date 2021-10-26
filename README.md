@@ -1,4 +1,5 @@
 Основной пользовательский интерфейс
+
 ![image](https://user-images.githubusercontent.com/70647636/138879782-eb576150-aaa6-4ed8-8360-9c5b5ce78945.png)
 ![image](https://user-images.githubusercontent.com/70647636/138879809-aec60f83-0a84-4274-aa0c-4a020866db9b.png)
 
